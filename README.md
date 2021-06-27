@@ -28,4 +28,4 @@ I am currently learning Ruby and have built some simple applications with it. Fo
 
 ### The University of Kent (01/09/15 - 15/06/18)
 
-*2:2 English Literature with Creative Writing
+* 2:2 English Literature with Creative Writing
