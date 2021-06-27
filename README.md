@@ -21,9 +21,9 @@ I am currently learning Ruby and have built some simple applications with it. Fo
 
 ### Makers Academy (28/06/21 - Current)
 
-*Enrolled on a highly selective coding coding course
-*Learning how to think procedurally 
-*Working within agile teams
+* Enrolled on a highly selective coding coding course
+* Learning how to think procedurally 
+* Working within agile teams
 
 
 ### The University of Kent (01/09/15 - 15/06/18)
