@@ -5,7 +5,7 @@ I am an eager graduate from Makers coding bootcamp. I’ve built simple programs
 
 ## Skills
 
-### Can quickly learn technologies
+### Can quickly learn technologies
 
 Makers has taught me how to be a self sufficient software engineer. This means that I feel confident in my ability yo quickly learn a new technology or language as required. For example, my final project involved learning Node.js, Javascript, Express, Sequelize, Postgres, CSS, Jest and Pupeeter. Though I'm not a specialist with any of these technologies, I am competent enough to see how they work, and put them together. 
 
