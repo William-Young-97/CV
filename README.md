@@ -1,29 +1,33 @@
 
 # **William Young**
 
-I am an eager student who is currently enrolled in the Makers coding bootcamp. I’ve built simple programs and performed quality learning for long durations. I’m looking to work with others on projects that bring value to people's lives. Currently, this means developing my skills and brainstorming ideas.
+I am an eager graduate from Makers coding bootcamp. I’ve built simple programs, in Ruby such as my bank tech test, through test driven development. I've also developed websites in team, such as my final project, which is an app to track your movies and books. This gave me experience working in agile teams, with sprints and deadlines.
 
 ## Skills
 
+### Can quickly learn technologies
+
+Makers has taught me how to be a self sufficient software engineer. This means that I feel confident in my ability yo quickly learn a new technology or language as required. For example, my final project involved learning Node.js, Javascript, Express, Sequelize, Postgres, CSS, Jest and Pupeeter. Though I'm not a specialist with any of these technologies, I am competent enough to see how they work, and put them together. 
+
 ### Pressure management
 
-Previously, I worked in direct sales and had pressure to hit targets. To do this I had to think methodically about my process, and apply the correct amount of volume to see results. I have achieved seven door to door sales in a day, overcoming challenges such as constant rejection, poor weather conditions and daily time constraints. I have also competed at Judo on a national and international level. I have placed on the podium in many competitions, most notably winning a gold medal in the London open. I was able to do this by focusing on the task at hand, and using the pressure of winning, to keep myself moving into beneficial positions. 
+Previously, I worked in direct sales and had pressure to hit targets. To do this I had to think methodically about my process, and apply the correct amount of volume to see results. I have achieved seven door to door sales in a day, overcoming challenges such as constant rejection, poor weather conditions and daily time constraints. I have also competed at Judo on a national and international level.  
 
 ### Active listener
 
-Active listening is about listening closely to others and picking up on specifics. This means that you can adhere to their needs easier. This is important for sales as you can tailor benefits to the customer. This means I am good at following instructions precisely, which is important for programming. For example, I’ve had customers ask why they should use our service over another. I asked them about weaker areas of business and we concluded that we could help them with marketing on instagram. As a result I was able to gain a sale and a satisfied customer
+Active listening is about listening closely to others and picking up on specifics. This means that you can adhere to their needs easier. I find this very helpful in interpersonal situations, as it lessens conflict and improves teamwork. It's also useful for adhering to specific work objectives, such as designing a page in a certain way. 
 
 ### Ruby
 
-I am currently learning Ruby and have built some simple applications with it. For example I have built a simple blackjack game. The main challenge, and learning objective, was applying the rules of abstraction. I initially built a working game, however, it failed the RSpec tests as the methods were not simple enough. I had tried to add too many functions to one method. I then spent an hour refactoring the code. The end result was a working game, with clear and concise code. 
+I am very comfortable with Ruby, having built some a variety of projects with it. For example, I've built simple dice and blackjack games, whilst following the rules of OOP and TDD. I plan to do some more projects in Ruby, though I will soon be focusing my efforts more towards Javascript.
 
 ## Education
 
-### Makers Academy (28/06/21 - Current)
+### Makers Academy (28/06/21 - 17/09/21)
 
-* Enrolled on a highly selective coding coding course
-* Learning how to think procedurally 
-* Working within agile teams
+* Completed a highly selective coding coding course.
+* Learnt how to OOP and structure projects.
+* Works well within teams.
 
 
 ### The University of Kent (01/09/15 - 15/06/18)
