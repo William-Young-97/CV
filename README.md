@@ -14,7 +14,7 @@ Project | Description | Stack
 ## Skills
 - **Interpersonal**: I am a natural empath, which helps me to more acurately gauge the needs and feelings of others, leading to a productive work environment.
 - **Growth mindeset**: I hold the belief that you can learn anything as long as you work at it. This translates into a persistent yearning to be the best person I can be.
-- **Proccess oriented**: I understand the importance of goals, whilst appreciating that the focus should be on what you're doing to each day to reach them.  
+- **Proccess oriented**: I understand the importance of goals, whilst appreciating that the focus should be on what you're doing to each day to reach them, not on the results.  
 
 ## Work experience
 ### Alpha Gamma Solutions (Direct sales) | September 2020 - Novemember 2020
