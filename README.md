@@ -1,9 +1,6 @@
-
-## William Young
-
 ## My approach
 
-I am passionate about building quality practices into my life. This is also my philosophy when it comes to coding. As a Makers graduate, I follow test driven development approaches, and object oriented programming principles. I also have experience working with others in team based environments. Most importantly, my time at Makers has made me comfortable with learning new technologies.
+I am passionate about building quality practices into my life. This is also my philosophy when it comes to coding. As a Makers graduate, I follow test driven development approaches, and object oriented programming principles. Team cohesion can often make or break a project. With this in mind I strive to from relationships that are underpined by trust and honesty, so that I can be conscientious with myself and others. Finally, I believe in work-balance and the ability to recognise your own mental wellbeing. This is important as proper mental hygiene allows for a more productive and fuffilling life. 
 
 ## Projects
 Project | Description | Stack 
@@ -46,4 +43,4 @@ Project | Description | Stack
 ## Peronal interests
 - I am a black belt in Judo with years of competitive experince.
 - I enjoy a fun night out with friends as much as the next guy.
-- Recently I have taken up an intrest in 3D modelling.
+- Recently, I have formed an interest in 3D modelling.
