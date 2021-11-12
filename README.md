@@ -1,6 +1,6 @@
 ## My approach
 
-I am passionate about building quality practices into my life. This is also my philosophy when it comes to coding. As a Makers graduate, I follow test driven development approaches, and object oriented programming principles. Team cohesion can often make or break a project. With this in mind I strive to form relationships that are underpined by trust and honesty, so that I can be conscientious with myself and others. Finally, I believe in proper work-life balance, and the ability to recognise your own mental wellbeing. This is important as proper mental hygiene allows for a more productive and fuffilling life. 
+I am passionate about building quality practices into my life. This is also my philosophy when it comes to coding. As a Makers graduate, I follow test driven development approaches, and object oriented programming principles. Team cohesion can often make or break a project. With this in mind I strive to form relationships that are underpined by trust and honesty, so that I can be conscientious with myself and others. Finally, I believe in proper work-life balance, and the ability to recognise your own mental wellbeing. This is important as self care allows for a more productive and fulfilling life. 
 
 ## Projects
 Project | Description | Stack 
@@ -17,7 +17,7 @@ Project | Description | Stack
 ### Alpha Gamma Solutions (Direct sales) | September 2020 - Novemember 2020
 - Interacted with a diverse range of people and honed my ability to actively listen to others.
 - 97 rejections a day, on average, has made me comfortable utilising failure and rejection to succeed.
-- Competitive environment where I would seek to outperform my KPIs.
+- Competitive work environment where I would seek to outperform my KPIs.
 
 ### Ocado (Warehouse operative) | December 2019 - August 2020
 - Consistently had load times in the the upper 20th percentile of workers.
@@ -25,9 +25,9 @@ Project | Description | Stack
 - Experience working safely in a team in a potetnially hazardous environment.
 
 ### McDonalds (Kitchen and counter) | September 2019 - December 2019
-- Experince de-esculate situations tense situations with emotional customers.
+- Experince de-esculating tense situations with emotional customers.
 - Worked as a team to ensure a constant work flow of orders was kept.
-- Adhered and encouraged saftey and sanitation practices.
+- Adhered to, and encouraged, saftey and sanitation practices.
 
 ## Education
 ### Makers Academy (28/06/21 - 17/09/21)
