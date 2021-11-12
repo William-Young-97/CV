@@ -42,3 +42,8 @@ Project | Description | Stack
 - 2:2 English Literature with Creative Writing.
 - Diverse exposure to world views and ideologies.
 - Critical thinking skills cultivated via study based work.
+
+## Peronal interests
+- I am a black belt in Judo with years of competitive experince.
+- I enjoy a fun night out with friends as much as the next guy.
+- Recently I have taken up an intrest in 3D modelling.
