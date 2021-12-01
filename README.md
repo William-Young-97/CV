@@ -31,8 +31,8 @@ Project | Description | Stack
 
 ## Education
 ### Makers Academy (28/06/21 - 17/09/21)
-- The values of self lead learning and persistence.
-- Test driven development processes following object oriented desgin.
+- The values of self-lead learning and persistence.
+- Test driven development processes following object oriented-design.
 - Agile team methodology combined with wellness check ins.
 
 ### The University of Kent (01/09/15 - 15/06/18)
