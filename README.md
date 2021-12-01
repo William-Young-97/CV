@@ -22,12 +22,12 @@ Project | Description | Stack
 ### Ocado (Warehouse operative) | December 2019 - August 2020
 - Consistently had load times in the upper 20th percentile of workers.
 - Used the 11 hour shift to also educate myself through podcasts and audiobooks.
-- Experience working safely in a team in a potetnially hazardous environment.
+- Experience working safely in a team in a potentially hazardous environment.
 
 ### McDonalds (Kitchen and counter) | September 2019 - December 2019
-- Experince de-esculating tense situations with emotional customers.
+- Experince de-escalating tense situations with emotional customers.
 - Worked as a team to ensure a constant work flow of orders was kept.
-- Adhered to, and encouraged, saftey and sanitation practices.
+- Adhered to, and encouraged, safety and sanitation practices.
 
 ## Education
 ### Makers Academy (28/06/21 - 17/09/21)
